@@ -1,0 +1,4 @@
+rootProject.name = 'learn-demo'
+include 'design-pattern-demo'
+include 'spring-source-demo'
+

@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'com.cpf'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile(
+            // https://mvnrepository.com/artifact/cglib/cglib
+            "cglib:cglib:2.2.2"
+    )
+}

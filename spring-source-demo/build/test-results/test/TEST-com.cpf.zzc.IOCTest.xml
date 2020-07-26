@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cpf.zzc.IOCTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-22T15:46:04" hostname="caopengfeideMacBook-Pro.local" time="33490.893">
+  <properties/>
+  <testcase name="test" classname="com.cpf.zzc.IOCTest" time="33490.893"/>
+  <system-out><![CDATA[new User()
+new Cat()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
