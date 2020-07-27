@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/design-pattern-demo" />
+            <option value="$PROJECT_DIR$/java-base-demo" />
             <option value="$PROJECT_DIR$/spring-source-demo" />
           </set>
         </option>
